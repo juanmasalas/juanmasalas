@@ -1,7 +1,8 @@
-<h1 align="center">Hola 👋, soy JuanMa</h1>
-<h3 align="center">Soy un informático apasionado por la seguridad y las redes</h3>
+<h1 align="center">Hi 👋, I'am JuanMa</h1>
+<h3 align="center">I am a computer scientist with a passion for security and networks.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Python y Pentesting**
+- 🌱 I am currently learning **Python and Pentesting**.
+- I am a professional with more than 5 years of experience as a help desk support technician, with a solid academic background and an outstanding track record in team leadership and IT improvement project management. My responsibilities include providing remote and physical technical support to users, equipment and software maintenance, as well as the successful implementation of new technologies. I excel in migrating operating systems and email accounts to M365, and efficiently managing video conferencing rooms. I am highly skilled in Intune and Trendmicro, and my focus on continuous improvement has led to remarkable improvements in my company's IT infrastructure.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
